@@ -37,14 +37,6 @@
 
 ---
 
-## 📈 Stats GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juste-Modeste&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juste-Modeste&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Me contacter
 
 - 📧 Email : [hjuste.dev@gmail.com](mailto:hjuste.dev@gmail.com)
